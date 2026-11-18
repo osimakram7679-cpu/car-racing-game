@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Roar",
+  "description": "High-octane arcade car racing game with a loud multi-harmonic engine synthesizer, turbo boost, and nitro exhaust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

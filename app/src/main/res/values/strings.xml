@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Turbo Roar</string>
+    <string name="tagline">LOUD V8 STREET RACING</string>
+    <string name="start_race">START RACE</string>
+    <string name="rev_engine">REV ENGINE</string>
+    <string name="garage_title">SELECT MACHINE</string>
+    <string name="track_title">CIRCUIT</string>
+    <string name="sound_boost_label">LOUD BOOST</string>
+    <string name="sound_max_badge">MAX ROAR ON</string>
+    <string name="sound_normal_badge">STANDARD VOL</string>
+    <string name="controls_label">CONTROLS</string>
+    <string name="controls_touch">TOUCH</string>
+    <string name="controls_tilt">TILT</string>
+    <string name="score_label">SCORE</string>
+    <string name="best_label">BEST</string>
+    <string name="distance_label">DIST</string>
+    <string name="near_miss_label">NEAR MISS</string>
+    <string name="nitro_label">NITRO</string>
+    <string name="brake_label">BRAKE</string>
+    <string name="horn_label">HORN</string>
+    <string name="steer_left_desc">Steer left</string>
+    <string name="steer_right_desc">Steer right</string>
+    <string name="paused_title">RACE PAUSED</string>
+    <string name="resume_race">RESUME</string>
+    <string name="restart_race">RESTART</string>
+    <string name="back_to_garage">GARAGE</string>
+    <string name="game_over_title">WRECKED!</string>
+    <string name="play_again">RACE AGAIN</string>
+    <string name="top_speed_label">TOP SPEED</string>
+    <string name="mute_desc">Toggle sound</string>
+    <string name="pause_desc">Pause game</string>
+    <string name="settings_desc">Audio and control settings</string>
+</resources>
